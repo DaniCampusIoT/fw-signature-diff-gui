@@ -69,8 +69,7 @@ A JSON report can be saved via **Guardar JSON…**, containing:
 
 Choose one:
 
-- MIT (simple, permissive)
-- Apache-2.0 (explicit patent grant)
+- MIT 
 
 
 ## Disclaimer
